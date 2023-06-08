@@ -9,6 +9,6 @@ git clone https://github.com/VinothManickam/project2.git
 ```
 ## Running
 
-```bbash
+```bash
 hello.py
 ```
